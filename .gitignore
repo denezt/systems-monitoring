@@ -1,0 +1,6 @@
+# Local scripts
+scripts/**
+# Local configurations
+config/**
+# Local generated logs
+logs/**
