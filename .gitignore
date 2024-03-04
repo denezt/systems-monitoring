@@ -1,6 +1,10 @@
-# Local scripts
-scripts/**
-# Local configurations
-config/**
+# Local generated data
+local_data/**
+scripts/system_monitoring_scripts.f2db
+
 # Local generated logs
 logs/**
+
+# Older build sessions
+build/**
+
